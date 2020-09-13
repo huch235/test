@@ -5,5 +5,4 @@ void port_init(void);
 void timer0_init(void);
 void init_devices(void);
 void timer1_init(void);
-
 #endif
